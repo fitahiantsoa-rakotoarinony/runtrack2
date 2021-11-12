@@ -1,0 +1,1 @@
+SELECT `prénom`, `nom`, `naissance`, `sexe` FROM `etudiants`
